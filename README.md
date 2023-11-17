@@ -1,5 +1,4 @@
 # Combining multiple Excel files into one Workbook
-#### Video Demo:  <https://youtu.be/rLIY99M9GnU>
 #### Description:
 A very common problem in many companies is the amount of data stored in different files. Files that may contain the same information structure, but from different periods or different regions, for example.
 
