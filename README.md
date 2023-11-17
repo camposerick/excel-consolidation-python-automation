@@ -1,5 +1,5 @@
 # Combining multiple Excel files into one Workbook
-#### Description:
+### Description:
 A very common problem in many companies is the amount of data stored in different files. Files that may contain the same information structure, but from different periods or different regions, for example.
 
 Searching for data from different files in Excel can give us some headaches such as:
